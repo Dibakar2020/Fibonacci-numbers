@@ -1,3 +1,5 @@
+# frist ten Fibonacci number
+
 def fibonacci(n):
     fib_sequence = [0, 1]
     while len(fib_sequence)<n:
